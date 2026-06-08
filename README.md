@@ -40,12 +40,14 @@ $$Sharpe\ Ratio = \frac{R_p - R_f}{\sigma_p}$$
 ### 1. Quantitative Risk Desk
 * Multi-asset selection capability with responsive portfolio tracking.
 * High-performance KPI cards updating Expected Annual Returns, Portfolio Volatility, and Sharpe Ratios.
+![Trading Desk Workspace Dashboard](screenshot_trading.png)
 * Interactive time-series performance charts tracking base-100 normalized performance asset indices.
 * **ML Price Forecast Engine:** Runs a rolling 5-day and 20-day Moving Average (MA) inference model on the fly to flag technical directional metrics (Upward/Downward Trends) for the upcoming market session.
 
 ### 2. Investment Banking Advisory Desk
 * Interactive M&A workflow pipeline entry forms capturing Target Name, Industry Sector, Enterprise Value ($M), and Implied Multiples.
 * **Persistent SQL Storage:** Uses structural SQL schemas to save logged transactions directly into an internal database file, preserving corporate records across user sessions.
+![Investment Banking Advisory Deal Desk](screenshot_ib.png)
 * **Valuation Multiples Benchmarking:** Real-time data visualization plotting competitor valuation comps side-by-side using dynamic **EV/EBITDA** multiple analytics.
 
 ---
