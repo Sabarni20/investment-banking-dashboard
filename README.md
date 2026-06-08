@@ -1,6 +1,5 @@
-# https://sabarni-investment-banking-dashboard.streamlit.app
 # Institutional Trading Analytics & Investment Banking Deal Desk
-🚀 **Live Application Link:** [Insert Your Live Streamlit URL Here]
+🚀 **Live Application Link:** https://sabarni-investment-banking-dashboard.streamlit.app
 
 An automated, end-to-end Python web application designed to bridge quantitative market analytics with corporate finance advisory workflows. This portal provides real-time portfolio optimization, risk forecasting using predictive Machine Learning models, and a persistent transactional database pipeline for tracking Investment Banking M&A deal desks.
 
